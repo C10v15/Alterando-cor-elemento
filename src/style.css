@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  
+    text-align: center;
+    background-color: black;
+}
+
+.square{
+    height: 100px;
+    width: 100px;
+}
+
+.bluee{
+    background-color: blue;
+}
+.redd{
+    background-color: red;
+}
+.yelloww{
+    background-color: yellow;
+}
